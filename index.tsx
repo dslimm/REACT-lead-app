@@ -1,8 +1,7 @@
-export {App} from '/REACT-lead-app/App.tsx';
-aimport React from 'react';
+import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-import App from '/REACT-lead-app/App';
+import App from './App';
 import reportWebVitals from './reportWebVitals';
 
 const root = ReactDOM.createRoot(
