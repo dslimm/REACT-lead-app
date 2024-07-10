@@ -1,6 +1,6 @@
 import React from 'react';
-import './App.css';
-import LeadList from './components/LeadList';
+import '/REACT-lead-app/App.css';
+import LeadList from '/REACT-lead-app/components/LeadList';
 
 const App: React.FC = () => {
   return (
