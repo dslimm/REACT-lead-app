@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { List } from 'antd';
-import LeadSearch from './LeadSearch';
+import LeadSearch from '/REACT-lead-app/LeadSearch';
 
 interface Lead {
   name: string;
